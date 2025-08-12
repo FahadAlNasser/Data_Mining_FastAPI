@@ -4,7 +4,7 @@
 ## Data Mining
 Data mining is a data science technique that extracts and analyzes data to discover patterns and information from large datasets
 
-This is a small FastAPI project to practice thical data extraction from:
+This is a small FastAPI project to practice ethical data extraction from:
 
 1- The official API of the Hacker News
 2- The Hackers News RSS feed
